@@ -22,4 +22,6 @@ This project provides an AI-powered tool designed to help small and medium-scale
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/agriculture-ai-tool.git
+   git clone https://github.com/PIYUSH-JOSHI1/AgriKisan.git
+
+   
